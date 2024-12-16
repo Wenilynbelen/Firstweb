@@ -1,4 +1,5 @@
-#<h1 align="center">Hi 👋, I'm Wenilyn Belen</h1>
+#LUXMUNDI CUP 2024
+<h1 align="center">Hi 👋, I'm Wenilyn Belen</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 - 📫 How to reach me **wenilynbelen@gmail.com**
